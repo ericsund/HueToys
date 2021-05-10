@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-05-09T06:45:36.051</Modified>
+      <Modified>2021-05-10T23:47:13.856</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\HueToys.exe">
       <PackagePath>entrypoint\HueToys.exe</PackagePath>
-      <Modified>2021-05-09T06:45:35.129</Modified>
+      <Modified>2021-05-10T23:47:13.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\.nuget\packages\newtonsoft.json\9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -52,57 +52,61 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\Assets\partially-cloudy.png">
       <PackagePath>Assets\partially-cloudy.png</PackagePath>
-      <Modified>2021-05-09T01:35:42.916</Modified>
+      <Modified>2021-05-09T06:52:05.884</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2021-05-09T01:03:43.386</Modified>
+      <Modified>2021-05-09T06:52:05.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-05-09T01:03:43.388</Modified>
+      <Modified>2021-05-09T06:52:05.843</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-05-09T01:03:43.389</Modified>
+      <Modified>2021-05-09T06:52:05.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-05-09T01:03:43.390</Modified>
+      <Modified>2021-05-09T06:52:05.858</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-05-09T01:03:43.390</Modified>
+      <Modified>2021-05-09T06:52:05.865</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-05-09T01:03:43.390</Modified>
+      <Modified>2021-05-09T06:52:05.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-05-09T01:03:43.391</Modified>
+      <Modified>2021-05-09T06:52:05.878</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2021-05-09T01:09:05.414</Modified>
+      <Modified>2021-05-09T06:52:05.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\HueToys.xr.xml">
       <PackagePath>HueToys.xr.xml</PackagePath>
-      <Modified>2021-05-09T06:45:34.989</Modified>
+      <Modified>2021-05-10T23:47:13.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-05-09T06:45:35.006</Modified>
+      <Modified>2021-05-10T23:47:13.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\LightsGroupPage.xbf">
+      <PackagePath>LightsGroupPage.xbf</PackagePath>
+      <Modified>2021-05-10T23:47:13.363</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-05-09T06:45:35.006</Modified>
+      <Modified>2021-05-10T23:47:13.363</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -110,11 +114,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-05-09T06:45:35.446</Modified>
+      <Modified>2021-05-09T23:09:59.293</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\Core\HueToys.exe">
       <PackagePath>HueToys.exe</PackagePath>
-      <Modified>2021-05-09T06:45:36.041</Modified>
+      <Modified>2021-05-10T23:47:13.852</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

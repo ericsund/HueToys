@@ -45,3 +45,8 @@ C:\Users\Eric Sund\code\HelloWorld\HelloWorld\obj\x86\Debug\qualifiers.txt.inter
 C:\Users\Eric Sund\code\HelloWorld\HelloWorld\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Eric Sund\code\HelloWorld\HelloWorld\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\Eric Sund\code\HelloWorld\HelloWorld\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637425067200000000.json
+C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\LightsGroupPage.xbf
+C:\Users\Eric Sund\code\HelloWorld\HelloWorld\obj\x86\Debug\LightsGroupPage.g.i.cs
+C:\Users\Eric Sund\code\HelloWorld\HelloWorld\obj\x86\Debug\LightsGroupPage.g.cs
+C:\Users\Eric Sund\code\HelloWorld\HelloWorld\obj\x86\Debug\LightsGroupPage.xaml
+C:\Users\Eric Sund\code\HelloWorld\HelloWorld\obj\x86\Debug\LightsGroupPage.xbf
