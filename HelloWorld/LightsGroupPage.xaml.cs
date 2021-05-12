@@ -32,6 +32,7 @@ namespace HelloWorld
     {
         List<GroupHeader> headers = new List<GroupHeader>();
 
+
         public class GroupHeader
         {
             public GroupHeader()
@@ -54,6 +55,7 @@ namespace HelloWorld
         {
             this.InitializeComponent();
             PopulateLightsData();
+            PopulateLightsData_Helper();
         }
 
         private void PopulateLightsData()
@@ -74,11 +76,20 @@ namespace HelloWorld
                 group1.Groups.Add(g1);
 
                 headers.Add(group1);
-                
+
                 i++;
             }
 
             cvsProjects.Source = headers;
+        }
+
+        private void PopulateLightsData_Helper()
+        {
+            List<string> lightsInGroup = new List<string>();
+            //lightsInGroup.AddRange(groupsInfo[i.ToString()]["lights"].ToObject<string[]>());
+            lightsInGroup.Add("1");
+            lightsInGroup.Add("2");
+            lightsInGroup.Add("3");
         }
 
         private void GroupBrightnessChanged(object sender, ManipulationCompletedRoutedEventArgs e)
@@ -91,6 +102,18 @@ namespace HelloWorld
             {
                 HueAPI.Lights.SetLightBrightness(int.Parse(currLightId), (int)newBrightness);
             }
+        }
+
+        private void SingleSwitch(object sender, ItemClickEventArgs e)
+        {
+
+        }
+
+        private void SingleBrightnessChanged(object sender, ManipulationCompletedRoutedEventArgs e)
+        {
+            Slider MySlider = sender as Slider;
+            string name = MySlider.Name;
+            Debug.WriteLine(name);
         }
 
         private void GroupSwitch(object sender, ItemClickEventArgs e)
