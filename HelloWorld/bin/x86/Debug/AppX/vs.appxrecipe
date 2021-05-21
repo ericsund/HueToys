@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-05-13T05:10:33.888</Modified>
+      <Modified>2021-05-21T00:01:50.816</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\HueToys.exe">
       <PackagePath>entrypoint\HueToys.exe</PackagePath>
-      <Modified>2021-05-13T05:10:33.452</Modified>
+      <Modified>2021-05-21T00:01:42.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\.nuget\packages\newtonsoft.json\9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -98,15 +98,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-05-13T05:10:33.378</Modified>
+      <Modified>2021-05-21T00:01:40.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\LightsGroupPage.xbf">
       <PackagePath>LightsGroupPage.xbf</PackagePath>
-      <Modified>2021-05-13T05:10:33.378</Modified>
+      <Modified>2021-05-21T00:01:40.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-05-13T05:10:33.378</Modified>
+      <Modified>2021-05-21T00:01:40.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -114,11 +114,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-05-09T23:09:59.293</Modified>
+      <Modified>2021-05-21T00:01:45.909</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Eric Sund\code\HelloWorld\HelloWorld\bin\x86\Debug\Core\HueToys.exe">
       <PackagePath>HueToys.exe</PackagePath>
-      <Modified>2021-05-13T05:10:33.885</Modified>
+      <Modified>2021-05-21T00:01:50.805</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

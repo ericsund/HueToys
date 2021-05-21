@@ -40,15 +40,10 @@
 
         <StackPanel>
             <muxc:MenuBar VerticalAlignment="Top" >
-                <muxc:MenuBarItem x:ConnectionId='16' Title="My Groups" Name="GroupsList">
-                    
-                </muxc:MenuBarItem>
+                <muxc:MenuBarItem x:ConnectionId='16' Title="My Groups" Name="GroupsList"></muxc:MenuBarItem>
 
                 <muxc:MenuBarItem Title="Options">
                     <MenuFlyoutItem x:ConnectionId='17' Text="Toggle Floodlight"                            />
-                    <MenuFlyoutItem Text="Cut"/>
-                    <MenuFlyoutItem Text="Copy"/>
-                    <MenuFlyoutItem Text="Paste"/>
                 </muxc:MenuBarItem>
 
                 <muxc:MenuBarItem Title="Help">
